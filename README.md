@@ -1,1 +1,5 @@
-# React_interview_multi_level_Category
+<<<<<<< HEAD
+// content from main branch
+=======
+// content from master branch
+>>>>>>> master
