@@ -1,0 +1,306 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "id": 11,
+          "name": "Computers",
+          "subcategories": [
+            {
+              "id": 111,
+              "name": "Laptops",
+              "subcategories": [
+                {
+                  "id": 1111,
+                  "name": "Gaming Laptops",
+                  "subcategories": [
+                    {
+                      "id": 11111,
+                      "name": "High-End"
+                    },
+                    {
+                      "id": 11112,
+                      "name": "Budget"
+                    }
+                  ]
+                },
+                {
+                  "id": 1112,
+                  "name": "Ultrabooks"
+                }
+              ]
+            },
+            {
+              "id": 112,
+              "name": "Desktops"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Mobile Phones",
+          "subcategories": [
+            {
+              "id": 121,
+              "name": "Smartphones",
+              "subcategories": [
+                {
+                  "id": 1211,
+                  "name": "Android"
+                },
+                {
+                  "id": 1212,
+                  "name": "iOS"
+                }
+              ]
+            },
+            {
+              "id": 122,
+              "name": "Feature Phones"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Home & Garden",
+      "subcategories": [
+        {
+          "id": 21,
+          "name": "Furniture",
+          "subcategories": [
+            {
+              "id": 211,
+              "name": "Living Room",
+              "subcategories": [
+                {
+                  "id": 2111,
+                  "name": "Sofas"
+                },
+                {
+                  "id": 2112,
+                  "name": "Coffee Tables"
+                }
+              ]
+            },
+            {
+              "id": 212,
+              "name": "Bedroom"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Garden",
+          "subcategories": [
+            {
+              "id": 221,
+              "name": "Plants"
+            },
+            {
+              "id": 222,
+              "name": "Tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fashion",
+      "subcategories": [
+        {
+          "id": 31,
+          "name": "Men",
+          "subcategories": [
+            {
+              "id": 311,
+              "name": "Clothing",
+              "subcategories": [
+                {
+                  "id": 3111,
+                  "name": "Shirts"
+                },
+                {
+                  "id": 3112,
+                  "name": "Jeans"
+                }
+              ]
+            },
+            {
+              "id": 312,
+              "name": "Shoes"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "name": "Women",
+          "subcategories": [
+            {
+              "id": 321,
+              "name": "Clothing",
+              "subcategories": [
+                {
+                  "id": 3211,
+                  "name": "Dresses"
+                },
+                {
+                  "id": 3212,
+                  "name": "Tops"
+                }
+              ]
+            },
+            {
+              "id": 322,
+              "name": "Accessories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sports",
+      "subcategories": [
+        {
+          "id": 41,
+          "name": "Outdoor",
+          "subcategories": [
+            {
+              "id": 411,
+              "name": "Camping",
+              "subcategories": [
+                {
+                  "id": 4111,
+                  "name": "Tents"
+                },
+                {
+                  "id": 4112,
+                  "name": "Sleeping Bags"
+                }
+              ]
+            },
+            {
+              "id": 412,
+              "name": "Hiking"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "Indoor",
+          "subcategories": [
+            {
+              "id": 421,
+              "name": "Gym Equipment"
+            },
+            {
+              "id": 422,
+              "name": "Yoga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Books",
+      "subcategories": [
+        {
+          "id": 51,
+          "name": "Fiction",
+          "subcategories": [
+            {
+              "id": 511,
+              "name": "Fantasy"
+            },
+            {
+              "id": 512,
+              "name": "Thriller"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "name": "Non-Fiction",
+          "subcategories": [
+            {
+              "id": 521,
+              "name": "Biography"
+            },
+            {
+              "id": 522,
+              "name": "Self-Help"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Health & Beauty",
+      "subcategories": [
+        {
+          "id": 61,
+          "name": "Skincare",
+          "subcategories": [
+            {
+              "id": 611,
+              "name": "Face"
+            },
+            {
+              "id": 612,
+              "name": "Body"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "name": "Makeup"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Automotive",
+      "subcategories": [
+        {
+          "id": 71,
+          "name": "Car Accessories",
+          "subcategories": [
+            {
+              "id": 711,
+              "name": "Interior"
+            },
+            {
+              "id": 712,
+              "name": "Exterior"
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "name": "Motorcycles"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Toys & Games",
+      "subcategories": [
+        {
+          "id": 81,
+          "name": "Board Games"
+        },
+        {
+          "id": 82,
+          "name": "Action Figures"
+        }
+      ]
+    }
+  ]
+}
